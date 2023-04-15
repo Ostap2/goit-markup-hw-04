@@ -473,7 +473,7 @@ ul {
 }
 .link-five:focus {
     border-color: #404bbf; 
-    color:#404bbf;
+    color: #404bbf;
 }
 .svg-five {
     fill: currentColor;
