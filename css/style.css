@@ -468,7 +468,8 @@ ul {
     display: flex; 
     align-items: center; 
     justify-content: center; 
-    color: #afb1b8; ;
+    color:#8e8f99;
+
 }
 .link-five:hover {
     border-color: #404bbf; 
@@ -523,4 +524,7 @@ ul {
 .li-four {
     width: 40px;
     height: 40px;
+}
+.svg-four {
+    fill: #f4f4fd ;
 }
