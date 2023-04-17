@@ -113,6 +113,7 @@
 
 .card {
     background-color:#FFFFFF ;
+    display: block;
 }
 
 .title-card {
