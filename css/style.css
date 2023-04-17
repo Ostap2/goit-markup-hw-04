@@ -181,7 +181,7 @@
 }
 .title-eff {
     margin: 0 auto;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -436,7 +436,7 @@ ul {
     justify-content: center;   
 }
 .link-four:focus {
-     background-color: #404bbf; 
+    background-color: #404bbf;
 }
 .link-four:hover {
     background-color: #404bbf;
@@ -519,4 +519,8 @@ ul {
 }
 .svg-footer {
     fill:  #f4f4fd;
+}
+.li-four {
+    width: 40px;
+    height: 40px;
 }
