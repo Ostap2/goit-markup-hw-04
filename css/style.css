@@ -113,7 +113,6 @@
 
 .card {
     background-color:#FFFFFF ;
-    display: block;
 }
 
 .title-card {
@@ -222,6 +221,7 @@
     margin: 0 auto;
 }
 .container {
+    display: block;
     width: 1158px; 
     padding: 0 15px;
     margin: 0 auto;
