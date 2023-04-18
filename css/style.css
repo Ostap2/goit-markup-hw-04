@@ -488,7 +488,6 @@ ul {
 .div-footer {
     display: flex;
     align-items: baseline; 
-    margin-right: 120px;
 }
 .paragraf-social-media {
     font-weight: 500;
@@ -551,4 +550,7 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
 .li-four-scr {
     width: 40px;
     height: 40px;
+}
+.logo-footer-div {
+    margin-right: 120px;
 }
