@@ -425,6 +425,10 @@ ul {
     gap: 24px;
    
 }
+.li-four {
+    width: 40px;
+    height: 40px;
+}
 .li-four-card {
     position: absolute;
     width: 40px;
