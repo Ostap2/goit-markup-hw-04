@@ -156,7 +156,6 @@
 .button-list:hover {
        color: #FFFFFF;
     background-color: #404BBF;
-    
     }
 .button-list:focus {
             color: #FFFFFF;
@@ -416,12 +415,11 @@ ul {
     margin-bottom: 8px;
 }
 .ul-four {
-    width: 40px;
-    height: 40px;
     display: flex;
     justify-content: center;
     gap: 24px;
-   
+    width: 40px;
+    height: 40px;
 }
 .li-four-card {
     position: absolute;
@@ -541,5 +539,6 @@ ul {
     left: 732px;
 }
 .Daniel-Wilson {
+
     left: 1020px;
 }
