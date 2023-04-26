@@ -526,6 +526,9 @@ ul {
 .svg-four {
     fill: #f4f4fd ;
 }
+.svg-five {
+    fill: currentColor;
+}
 .Mark-Guerrero {
     left: 156px;
 }
