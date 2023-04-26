@@ -449,11 +449,13 @@ ul {
     padding-top: 120px;
     padding-bottom: 120px; 
 }
-.title-five {
+.title-five { 
     font-size: 36px;
     line-height: 1.1 ;
     color:  #2e2f42;
-    margin-bottom: 72px; 
+    margin-bottom: 72px;  
+    align-items: center;
+    justify-content: center; 
 }
 .ul-five {
     display: flex; 
@@ -554,6 +556,4 @@ box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
 .paragraff-card {
     margin-bottom: 20px;
 }
-.title-five {
-    margin: 0 auto;
-}
+.title-five
